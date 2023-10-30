@@ -1,0 +1,36 @@
+h1 {
+    color: aqua; 
+    background-color: black;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+    background-color: pink;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+}
+
+p {
+    color: yellow;
+    background-color: black;
+}
+
+button {
+    color: brown;
+    background-color: aquamarine;
+}
+
+body {
+    background-color: #ffff00;
+    
+}
+
+footer {
+    text-decoration: none;
+    color: rgb(127, 29, 219);
+}
+
